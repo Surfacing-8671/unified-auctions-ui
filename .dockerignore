@@ -1,0 +1,18 @@
+# shared
+kubernetes
+reverse-proxy
+.drone.yml
+screenshot.jpg
+screenshot.png
+**/Dockerfile
+**/.env
+
+# node/npm (frontend, bot)
+node_modules
+npm-debug*
+.nuxt
+dist
+ts-build
+
+# hardhat
+cache

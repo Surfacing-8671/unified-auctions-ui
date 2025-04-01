@@ -1,0 +1,8 @@
+# project
+.env
+
+# macOS
+.DS_Store
+
+secrets.yaml
+.vercel
